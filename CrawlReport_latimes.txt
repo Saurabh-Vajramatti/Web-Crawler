@@ -1,0 +1,44 @@
+Name: Saurabh Vajramatti
+News site crawled: latimes.com
+Number of threads: 7
+
+Fetch Statistics
+=====================
+# fetches attempted: 19989
+# fetches succeeded: 19291
+# fetched failed or aborted: 698
+
+Outgoing URLs:
+=====================
+Total URLs extracted: 1460014
+# unique URLs extracted: 271375
+# unique URLs within News Site: 184815
+# unique URLs outside News Site: 86560
+
+Status Codes:
+=====================
+302 Moved Temporarily : 14
+301 Moved Permanently : 570
+200 OK : 19291
+307 Temporary Redirect : 49
+400 Bad Request : 1
+404 Not Found : 61
+403 Forbidden : 2
+500 Internal Server Error : 1
+
+File Sizes:
+=====================
+< 1KB: 32
+1KB ~ <10KB: 146
+10KB ~ <100KB: 487
+100KB ~ <1MB: 17898
+>= 1MB: 17
+
+Content Types:
+=====================
+image/png: 285
+text/html: 18202
+image/jpeg: 74
+image/gif: 5
+image/svg+xml: 13
+image/vnd.microsoft.icon: 1
